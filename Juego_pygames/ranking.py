@@ -1,4 +1,5 @@
 import json
+import os
 from datetime import datetime
 
 RUTA_RANKING = "partidas.json"
@@ -7,14 +8,20 @@ RUTA_RANKING = "partidas.json"
 def cargar_ranking() -> list:
     """
     Carga el ranking desde partidas.json.
-    Si no existe, devuelve lista vacía.
+    Si el archivo no existe, devuelve lista vacía.
     """
-    try:
-        with open(RUTA_RANKING, "r", encoding="utf-8") as archivo:
-            datos = json.load(archivo)
-            return datos
-    except:
-        return []
+    datos = []
+
+    if os.path.exists(RUTA_RANKING):
+        archivo = open(RUTA_RANKING, "r", encoding="utf-8")
+        contenido = archivo.read()
+
+        if len(contenido) > 0:
+            datos = json.loads(contenido)
+
+        archivo.close()
+
+    return datos
 
 
 def guardar_puntaje(nombre: str, puntaje: int):
