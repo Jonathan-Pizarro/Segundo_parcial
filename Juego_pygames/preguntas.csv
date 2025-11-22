@@ -1,0 +1,50 @@
+pregunta;opcion1;opcion2;opcion3;opcion4;correcta
+¿Qué es una variable en programación?;Un valor fijo;Un espacio para almacenar datos;Un error de sistema;Una función especial;Un espacio para almacenar datos
+¿Para qué sirve un bucle for?;Para repetir acciones;Para detener el programa;Para borrar archivos;Para crear gráficos;Para repetir acciones
+¿Qué es un algoritmo?;Una secuencia de pasos;Un número aleatorio;Una ventana gráfica;Un tipo de archivo;Una secuencia de pasos
+¿Qué indica el operador == ?;Asignación;Comparación;Suma;División;Comparación
+¿Qué hace la función print()?;Guarda datos;Muestra información;Elimina objetos;Divide números;Muestra información
+¿Qué valor devuelve 5 > 3?;False;True;Error;Ninguno;True
+¿Qué estructura permite decidir entre dos caminos?;for;while;if;return;if
+¿Qué es una lista?;Un solo valor;Una colección de valores ordenados;Un archivo;Un número entero;Una colección de valores ordenados
+¿Qué hace len(lista)?;Cuenta elementos;Suma valores;Resta elementos;Divide valores;Cuenta elementos
+¿Qué representa un índice en una lista?;La cantidad total;La posición de un elemento;El tamaño en memoria;El tipo de dato;La posición de un elemento
+¿Qué hace el operador + con strings?;Los resta;Los divide;Los concatena;Los multiplica;Los concatena
+¿Qué hace input()?;Escribe archivos;Pide un dato al usuario;Ordena listas;Cierra el programa;Pide un dato al usuario
+¿Qué sucede si accedemos a un índice fuera de rango?;Se corrige solo;Da error;Se reinicia el programa;Ignora la operación;Da error
+¿Qué es un booleano?;Un número real;Una lista;Un valor True o False;Un archivo CSV;Un valor True o False
+¿Cuál es el operador lógico AND?;&&;and;||;not;and
+¿Qué es una función?;Un error lógico;Un bloque reutilizable de código;Una base de datos;Un tipo de bucle;Un bloque reutilizable de código
+¿Qué es return?;Finaliza la función y devuelve un valor;Repite un bloque;Define una variable;Cierra el programa;Finaliza la función y devuelve un valor
+¿Qué es un parámetro?;Una carpeta;Un valor que recibe una función;Un error de sintaxis;Una variable global;Un valor que recibe una función
+¿Qué hace un break?;Continúa el bucle;Detiene el bucle;Elimina una variable;Imprime un valor;Detiene el bucle
+¿Qué significa while?;Mientras se cumpla una condición;Sólo una vez;Nunca;Siempre;Mientras se cumpla una condición
+¿Para qué sirve el operador % ?;Suma;Saca módulo;Divide siempre exacto;Convierte tipo;Saca módulo
+¿Qué es un error de sintaxis?;Un problema de lógica;Una regla mal escrita del lenguaje;Un dato inválido;Un bucle infinito;Una regla mal escrita del lenguaje
+¿Para qué sirve un contador?;Para sumar valores;Para controlar repeticiones;Para borrar datos;Para crear gráficos;Para controlar repeticiones
+¿Qué es un bucle infinito?;Un bucle que nunca termina;Un error simple;Un ciclo que se ejecuta una vez;Una estructura inválida;Un bucle que nunca termina
+¿Qué hace range(5)?;Genera 0 a 5;Genera 0 a 4;Genera 1 a 5;Genera solo 5;Genera 0 a 4
+¿Qué es un string?;Un número real;Una secuencia de caracteres;Un archivo;Un bucle;Una secuencia de caracteres
+¿Qué es un índice negativo en una lista?;Un error;Acceso desde el final;Una resta automática;Un tipo de dato;Acceso desde el final
+¿Qué hace lista.append(x)?;Elimina x;Agrega x al final;Ordena la lista;Suma elementos;Agrega x al final
+¿Qué hace lista.pop()?;Elimina y devuelve el último elemento;Ordena valores;Suma strings;Crea otra lista;Elimina y devuelve el último elemento
+¿Qué significa CSV?;Código Seguro Verificado;Valores separados por comas;Variable centralizada;Columna sin valor;Valores separados por comas
+¿Qué tipo de archivo es un .py?;Imagen;Audio;Código Python;Documento;Código Python
+¿Qué hace un comentario en código?;Se ejecuta;No se ejecuta;Elimina datos;Reinicia el programa;No se ejecuta
+¿Qué hace una condición elif?;Es lo mismo que else;Evalúa otra condición adicional;Repite la condición;Detiene el código;Evalúa otra condición adicional
+¿Qué es un diccionario en Python?;Una lista ordenada;Pares clave-valor;Un string especial;Un número real;Pares clave-valor
+¿Qué es una tupla?;Una lista modificable;Una lista inmutable;Un bucle;Un archivo;Una lista inmutable
+¿Qué significa indentación?;Espacios para dar estructura;Un tipo de archivo;Una función matemática;Un error de lógica;Espacios para dar estructura
+¿Qué hace open("archivo.csv")?;Abre un archivo;Reinicia el sistema;Genera una carpeta;Crea una clase;Abre un archivo
+¿Qué significa “parámetro opcional”?;Debe estar siempre;Puede faltarse;Genera error si falta;Es un bucle;Puede faltarse
+¿Cuál es la extensión de un archivo de texto?;.exe;.txt;.img;.bin;.txt
+¿Qué hace una excepción?;Detiene errores controlados;Suma valores;Ordena números;Multiplica strings;Detiene errores controlados
+¿Qué representa True?;Cero;Falso;Verdadero;Ninguno;Verdadero
+¿Qué representa False?;Error;Verdadero;Falso;None;Falso
+¿Qué es una expresión lógica?;Un número;Una cadena;Una comparación que da True o False;Un archivo;Una comparación que da True o False
+¿Qué hace un contador acumulador?;Cuenta repeticiones;Suma valores progresivamente;Divide datos;Elimina registros;Suma valores progresivamente
+¿Qué es un archivo?;Datos guardados en memoria secundaria;Una función;Un error;Un número;Datos guardados en memoria secundaria
+¿Qué es un módulo en Python?;Una biblioteca;Un bucle;Un archivo de imagen;Una clase;Una biblioteca
+¿Qué hace import?;Borra archivos;Trae funciones externas;Crea listas;Genera errores;Trae funciones externas
+¿Qué es una condición compuesta?;Una sola comparación;Varias comparaciones unidas;Un archivo CSV;Un bucle;Varias comparaciones unidas
+¿Qué permite un menú por consola?;Organizar opciones para el usuario;Crear imágenes;Compilar el programa;Repetir índices;Organizar opciones para el usuario
